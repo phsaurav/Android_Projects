@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="menu_action_Setting">menu_action_Setting</string>
+    <string name="menu_action_about_us">menu_action_about_us</string>
+    <string name="menu_action_About_us">About_us</string>
+    <string name="menu_action_setting">setting</string>
+    <string name="menu_action_Logout">action_Logout</string>
+</resources>
